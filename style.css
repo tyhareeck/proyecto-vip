@@ -58,3 +58,8 @@ table, th, td{
 th, td{
     padding:15px;
 }
+img {
+    width: 100%;
+    max-width:400px;
+    height:auto;
+}
